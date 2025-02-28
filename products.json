@@ -1,0 +1,20 @@
+{
+    "5321e910-ad4b-4738-859d-e3dada3bb9a8":{
+        "id":"5321e910-ad4b-4738-859d-e3dada3bb9a8",
+        "name":"Cellphone",
+        "price":10000,
+        "quantity":50,
+        "image":"image_url.png"
+     }
+}
+
+
+{
+    "updateProduct": {
+      "id": "5321e910-ad4b-4738-859d-e3dada3bb9a8",
+      "name": "Android",
+      "price": 10000,
+      "quantity": 50,
+      "image": "image_url.png"
+    }
+}
